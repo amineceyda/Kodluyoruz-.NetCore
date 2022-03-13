@@ -6,7 +6,6 @@ namespace Degiskenler
     {
         static void Main(string[] args)
         {
-            
             int deger=2;
             int degisken;
 
@@ -76,13 +75,6 @@ namespace Degiskenler
 
             string hour = DateTime.Now.ToString("HH:mm");
             Console.WriteLine(hour);
-
-
-
-
-
-
-
 
         }
     }
